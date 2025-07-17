@@ -10,7 +10,7 @@ require_once('navigation.php');
                     <div class="col-md-10 col-lg-8 col-xl-7">
                         <div class="site-heading">
                             <h1>Tuko news</h1>
-                            <span class="subheading">Stay informed</span>
+                            <span class="subheading">Be informed</span>
                         </div>
                     </div>
                 </div>
