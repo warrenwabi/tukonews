@@ -1,4 +1,3 @@
 # Tukonews
-## post your findings
-### let people know
+people post and comment about what they did and saw
 
